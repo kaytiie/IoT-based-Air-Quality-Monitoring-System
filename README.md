@@ -4,7 +4,7 @@
 This project aims to design and implement an **Indoor Air Quality Monitoring System** using an **ESP32** microcontroller.  
 The system continuously measures key environmental parameters such as **temperature, humidity, gas concentration, and dust density** to evaluate air quality.  
 
-All collected data are sent to a **cloud platform (ThingsBoard or ThingSpeak)** for real-time visualization and analysis.  
+All collected data are sent to a **cloud platform (ThingsBoard)** for real-time visualization and analysis.  
 This helps users monitor indoor air conditions and maintain a **healthy living environment**.
 
 ---
